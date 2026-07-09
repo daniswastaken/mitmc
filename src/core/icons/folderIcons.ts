@@ -758,7 +758,7 @@ export const folderIcons: FolderTheme[] = [
           'histories',
         ],
       },
-      { name: 'folder-batch', folderNames: ['batch', 'batchs', 'batches'] },
+      { name: 'folder-batch', folderNames: ['batch', 'batchs', 'batches', 'regolith'] },
       { name: 'folder-buildkite', folderNames: ['buildkite'] },
       { name: 'folder-cluster', folderNames: ['cluster', 'clusters'] },
       {
@@ -882,7 +882,7 @@ export const folderIcons: FolderTheme[] = [
         name: 'folder-shader',
         folderNames: ['glsl', 'hlsl', 'shader', 'shaders'],
       },
-      { name: 'folder-stack', folderNames: ['stack', 'stacks', 'structure_sets', 'structure_sets'] },
+      { name: 'folder-stack', folderNames: ['stack', 'stacks', 'structure_sets', 'structure-sets'] },
       {
         name: 'folder-template',
         folderNames: [

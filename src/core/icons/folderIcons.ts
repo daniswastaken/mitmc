@@ -650,6 +650,8 @@ export const folderIcons: FolderTheme[] = [
           'addins',
           'module',
           'modules',
+          'templae_pools',
+          'template-pools'
         ],
       },
       {
@@ -880,7 +882,7 @@ export const folderIcons: FolderTheme[] = [
         name: 'folder-shader',
         folderNames: ['glsl', 'hlsl', 'shader', 'shaders'],
       },
-      { name: 'folder-stack', folderNames: ['stack', 'stacks'] },
+      { name: 'folder-stack', folderNames: ['stack', 'stacks', 'structure_sets', 'structure_sets'] },
       {
         name: 'folder-template',
         folderNames: [
@@ -1036,7 +1038,7 @@ export const folderIcons: FolderTheme[] = [
       },
       {
         name: 'folder-interceptor',
-        folderNames: ['interceptor', 'interceptors'],
+        folderNames: ['interceptor', 'interceptors', 'worldgen'],
       },
       { name: 'folder-svg', folderNames: ['svg', 'svgs', 'vector', 'vectors', 'particle', 'particles'] },
       {

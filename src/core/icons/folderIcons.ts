@@ -247,6 +247,9 @@ export const folderIcons: FolderTheme[] = [
           'static',
           'report',
           'reports',
+          'rp',
+          'resource_pack',
+          'resource-pack'
         ],
       },
       {
@@ -615,7 +618,7 @@ export const folderIcons: FolderTheme[] = [
       },
       {
         name: 'folder-sandbox',
-        folderNames: ['sandbox', 'sandboxes', 'playground', 'playgrounds'],
+        folderNames: ['sandbox', 'sandboxes', 'playground', 'playgrounds', 'packs'],
       },
       {
         name: 'folder-scons',
@@ -720,7 +723,7 @@ export const folderIcons: FolderTheme[] = [
       },
       { name: 'folder-helper', folderNames: ['helpers', 'helper'] },
       { name: 'folder-serverless', folderNames: ['serverless'] },
-      { name: 'folder-api', folderNames: ['api', 'apis', 'restapi'] },
+      { name: 'folder-api', folderNames: ['api', 'apis', 'restapi', 'feature_rules', 'feature_rule'] },
       {
         name: 'folder-app',
         folderNames: ['app', 'apps', 'application', 'applications'],
@@ -777,7 +780,7 @@ export const folderIcons: FolderTheme[] = [
       },
       { name: 'folder-content', folderNames: ['content', 'contents'] },
       { name: 'folder-context', folderNames: ['context', 'contexts'] },
-      { name: 'folder-core', folderNames: ['core'] },
+      { name: 'folder-core', folderNames: ['core', 'bp', 'behavior', 'behavior_pack', 'behavior-pack'] },
       { name: 'folder-delta', folderNames: ['delta', 'deltas', 'changes'] },
       { name: 'folder-dump', folderNames: ['dump', 'dumps'] },
       {
@@ -858,7 +861,7 @@ export const folderIcons: FolderTheme[] = [
       { name: 'folder-meta', folderNames: ['meta', 'metadata'] },
       {
         name: 'folder-changesets',
-        folderNames: ['changesets', 'changeset'],
+        folderNames: ['changesets', 'changeset', 'structure', 'structures'],
       },
       {
         name: 'folder-packages',
@@ -1035,7 +1038,7 @@ export const folderIcons: FolderTheme[] = [
         name: 'folder-interceptor',
         folderNames: ['interceptor', 'interceptors'],
       },
-      { name: 'folder-svg', folderNames: ['svg', 'svgs', 'vector', 'vectors'] },
+      { name: 'folder-svg', folderNames: ['svg', 'svgs', 'vector', 'vectors', 'particle', 'particles'] },
       {
         name: 'folder-vuex-store',
         folderNames: ['store', 'stores'],
@@ -1120,7 +1123,7 @@ export const folderIcons: FolderTheme[] = [
           'remotes',
         ],
       },
-      { name: 'folder-quasar', folderNames: ['quasar'] },
+      { name: 'folder-quasar', folderNames: ['quasar', 'fogs'] },
       { name: 'folder-next', folderNames: ['next'] },
       {
         name: 'folder-dal',
@@ -1249,7 +1252,7 @@ export const folderIcons: FolderTheme[] = [
       },
       {
         name: 'folder-seeders',
-        folderNames: ['seeds', 'seeders', 'seed', 'seeding'],
+        folderNames: ['seeds', 'seeders', 'seed', 'seeding', 'biomes', 'biome'],
       },
       {
         name: 'folder-store',
@@ -1385,7 +1388,7 @@ export const folderIcons: FolderTheme[] = [
       },
       {
         name: 'folder-license',
-        folderNames: ['license', 'licenses'],
+        folderNames: ['license', 'licenses', 'honors', 'honor'],
       },
       { name: 'folder-form', folderNames: ['form', 'forms'] },
       {
